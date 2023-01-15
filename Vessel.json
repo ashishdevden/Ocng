@@ -8,12 +8,12 @@
     {
       "id": 1,
       "name": "Main Crane",
-      "info": "NOV Active Heave Compensated (AHC) crane => 275.5 t with 13,000 ft / 250 MT with 4000 m working capacity \\n Auxiliary hoist => 22.1 t with 8,202.1 ft / 20 MT with 2500 m working capacity (man-rated)"
+      "info": "NOV Active Heave Compensated (AHC) crane: 275.5 t with 13,000 ft / 250 MT with 4000 m working capacity.<br><br>Auxiliary hoist: 22.1 t with 8,202.1 ft / 20 MT with 2500 m working capacity (man-rated)"
     },
     {
       "id": 2,
       "name": "Utility Crane",
-      "info": "1 x auxiliary crane => 44.1 t / 40 MT single parted '\\n' 1x  provisioning crane => 1.7 t / 1.5 MT \\n "
+      "info": "1 x auxiliary crane => 44.1 t / 40 MT single parted: 1x  provisioning crane => 1.7 t / 1.5 MT<br>"
     }
   ]
 }
