@@ -1,0 +1,14 @@
+{
+  "profiles": [
+    {
+      "id": 0,
+      "name": "Ashish",
+      "location": "Bangalore"
+    },
+    {
+      "id": 1,
+      "name": "roshan",
+      "location": "Pune"
+    }
+  ]
+}
